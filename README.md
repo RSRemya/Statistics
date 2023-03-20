@@ -1,2 +1,2 @@
 # Statistics
-Files related to statics and python is included in it
+Files related to statistics and python is included in it
